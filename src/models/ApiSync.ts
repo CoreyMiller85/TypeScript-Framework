@@ -1,5 +1,4 @@
 import axios, { AxiosPromise } from 'axios';
-import { User } from './User';
 
 interface HasId {
   id?: number;
